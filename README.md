@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub Followers"></a>
+  <a href="https://github.com/devousmane"><img src="https://img.shields.io/github/followers/devousmane?label=Follow&style=social" alt="GitHub Followers"></a>
   <img src="https://img.shields.io/badge/Linux-Admin-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" />
   <img src="https://img.shields.io/badge/Cloud-DevOps-informational?style=flat&logo=docker&logoColor=white&color=blue" />
 </p>
@@ -58,8 +58,8 @@ Alongside that, I also work on web, mobile, and system-level development project
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=devousmane&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devousmane&layout=compact&theme=radical">
 </p>
 
 ---
