@@ -3,7 +3,7 @@
   👋 Hi, I'm Ousmane SENE!
 </h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Linux+Sysadmin+💻;Cloud+DevOps+Engineer+☁️;Fullstack+Developer+🛠️;Mobile+&+System+Dev+📱🧠&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer+🛠️;Cloud+DevOps+Engineer+☁️;Linux+Sysadmin+💻;Mobile+System+Dev+📱🧠&center=true&width=500&height=45">
 </p>
 
 ---
